@@ -1,0 +1,3 @@
+[submodule "_resources/speed-mathematics-ebooks"]
+	path = _resources/speed-mathematics-ebooks
+	url = git@gitlab.com:abhi18av/speed-mathematics-ebooks.git
